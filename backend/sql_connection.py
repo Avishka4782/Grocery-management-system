@@ -1,5 +1,6 @@
 import mysql.connector
 
+
 __cnx = None  #create a global variable to store the connection
 
 def get_sql_connection():
